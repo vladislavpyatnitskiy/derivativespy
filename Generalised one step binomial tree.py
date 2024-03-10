@@ -1,5 +1,6 @@
-# Function to calculate option value via generalisation
-def gen_one_step_bin_tree(y, s, d, r):
+import numpy as np
+
+def gen_one_step_bin_tree(y, s, d, r): # option value via generalisation
   
   bins = (np.exp(r * y) - (s - d) / s) / (2 * d / s) # Calculate probability
   
