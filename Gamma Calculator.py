@@ -1,3 +1,5 @@
+import numpy as np # Library
+
 def gamma_calculator(S, K, v, y, r):
     d1 = (np.log(S / K) + (r + v ** 2 / 2) * y) / (v * y ** 0.5)  # Delta 1
     d2 = d1 - v * y ** 0.5  # Delta 2
