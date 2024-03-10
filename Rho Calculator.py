@@ -1,3 +1,6 @@
+from scipy.stats import norm # Libs
+import numpy as np
+
 def rho_calculator(S, K, v, y, r): # Function for Rho of Option
   
   d1 = (np.log(S / K) + (r + v ** 2/2) * y) / v / y ** .5 # Delta 1
