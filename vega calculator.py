@@ -8,8 +8,6 @@ def vega_calculator(S, K, v, y, r):
   
   d_d1 = np.exp(-d1 ** 2 / 2) / (2 * np.pi) ** .5 # Derived Delta 1
   
-  vega_parameter = round(S * y ** 0.5 * d_d1, 2) # Vega value
-  
-  return(vega_parameter) # Display value
+  print(round(S * y ** 0.5 * d_d1, 2)) # Display value
 
 vega_calculator(49, 50, .2, .3846, .05) # Test
