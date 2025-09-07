@@ -70,12 +70,11 @@ def spread_bull_call(k1, k2, c1, c2):
     plt.legend()
     
     # Annotations
-    plt.text(k1-2.5, 1.25, f"Short Call, Strike Price of ${k2}")
-    plt.text(k1-2.5, -2.75, f"Long Call, Strike Price of ${k1}")
+    plt.text(k1-5, 1.25, f"Short Call, Strike Price of ${k2}")
+    plt.text(k1-5, -2.75, f"Long Call, Strike Price of ${k1}")
     
     plt.show()
     
     return DF
 
-df = spread_bull_call(30, 35, 1, 3) # Test run
-print(df)
+spread_bull_call(30, 35, 1, 3) # Test run
