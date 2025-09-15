@@ -16,3 +16,6 @@ Fig. 4. Bear Spread using Calls
 
 ![](https://github.com/vladislavpyatnitskiy/derivativespy/blob/main/Trading%20Strategies%20Visualisation/Plots/Spreads/Butterfly%20Spread%20using%20Calls.png?raw=true)
 Fig. 5. Butterfly Spread using Calls
+
+![](https://github.com/vladislavpyatnitskiy/derivativespy/blob/main/Trading%20Strategies%20Visualisation/Plots/Spreads/Butterfly%20Spread%20using%20Puts.png?raw=true)
+Fig. 6. Butterfly Spread using Puts
