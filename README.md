@@ -2,6 +2,8 @@
 
 Welcome to the repository! Here are collected python scripts that are useful when working with derivatives.
 
+## Spreads
+
 ![](https://github.com/vladislavpyatnitskiy/derivativespy/blob/main/Trading%20Strategies%20Visualisation/Plots/Spreads/Bull%20Spread%20using%20Calls.png?raw=true)
 Fig. 1. Bull Spread using Calls
 
@@ -19,3 +21,8 @@ Fig. 5. Butterfly Spread using Calls
 
 ![](https://github.com/vladislavpyatnitskiy/derivativespy/blob/main/Trading%20Strategies%20Visualisation/Plots/Spreads/Butterfly%20Spread%20using%20Puts.png?raw=true)
 Fig. 6. Butterfly Spread using Puts
+
+## Combinations
+
+![](https://github.com/vladislavpyatnitskiy/derivativespy/blob/main/Trading%20Strategies%20Visualisation/Plots/Combos/Straddle.png?raw=true)
+Fig. 7. Straddle
