@@ -29,3 +29,6 @@ Fig. 7. Straddle
 
 ![](https://github.com/vladislavpyatnitskiy/derivativespy/blob/main/Trading%20Strategies%20Visualisation/Plots/Combos/Strangle.png?raw=true)
 Fig. 8. Strangle
+
+![](https://github.com/vladislavpyatnitskiy/derivativespy/blob/main/Trading%20Strategies%20Visualisation/Plots/Combos/Strap.png?raw=true)
+Fig. 9. Strap
